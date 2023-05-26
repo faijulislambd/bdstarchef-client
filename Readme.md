@@ -4,17 +4,17 @@
 
 **<https://bdchefstars.web.app/>**
 
-## My Website Client Private Git Repo Link:
+## My Website Client Git Repo Link:
 
-**<https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-faijul144.git>**
+**<https://github.com/faijulislambd/bdstarchef-client.git>**
 
 ## My Server Link:
 
 **<https://bdstarchefs-server-faijul144.vercel.app/chefs/>**
 
-## My Website Server Private Git Repo Link:
+## My Website Server Git Repo Link:
 
-**<https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-faijul144.git>**
+**<https://github.com/faijulislambd/bdstarchef-server.git>**
 
 **The features of my website are as follows:**
 
